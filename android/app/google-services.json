@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183693302320",
+    "project_id": "lms-project-e8d04",
+    "storage_bucket": "lms-project-e8d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183693302320:android:94ce4dfcd0c55457852bf5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mezgeb_bet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsXCyzOGfYRbMty_ck-hUwO7C0NEdtYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183693302320:android:67234ccc9b4f8a6d852bf5",
+        "android_client_info": {
+          "package_name": "com.example.lms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsXCyzOGfYRbMty_ck-hUwO7C0NEdtYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
